@@ -10,6 +10,8 @@ Visit the site on github pages at: https://jesse-dejong.github.io/Horiseon/
 ## Usage
 Site contains only one page which can be accessed through simple scrolling or the provided same-site hyperlinks.
 
+![Website Home](assets/images/Horiseon-Homepage.png)
+
 ## Credits
 Sole collaborator: Me https://github.com/Jesse-DeJong
 
